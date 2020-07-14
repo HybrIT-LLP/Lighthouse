@@ -16,26 +16,14 @@
                 {
                     "principalId": "4d7bf2d9-534e-4e7b-acba-a0b2a3e85a18",
                     "principalIdDisplayName": "HybrIT Azure Consultants",
-                    "roleDefinitionId": "b24988ac-6180-42a0-ab88-20f7382dd24c"
-                },
-                {
-                    "principalId": "4d7bf2d9-534e-4e7b-acba-a0b2a3e85a18",
-                    "principalIdDisplayName": "HybrIT Azure Consultants",
                     "roleDefinitionId": "acdd72a7-3385-48ef-bd42-f606fba81ae7"
                 },
                 {
                     "principalId": "4d7bf2d9-534e-4e7b-acba-a0b2a3e85a18",
                     "principalIdDisplayName": "HybrIT Azure Consultants",
                     "roleDefinitionId": "91c1777a-f3dc-4fae-b103-61d183457e46"
-                },
-                {
-                    "principalId": "4d7bf2d9-534e-4e7b-acba-a0b2a3e85a18",
-                    "principalIdDisplayName": "Policy Automation Account",
-                    "roleDefinitionId": "18d7d88d-d35e-4fb5-a5c3-7773c20a72d9",
-                    "delegatedRoleDefinitionIds": [
-                        "b24988ac-6180-42a0-ab88-20f7382dd24c"
-                    ]
-                }                
+                }
+                                
             ]
         }
     }
